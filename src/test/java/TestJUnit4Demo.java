@@ -13,5 +13,6 @@ public class TestJUnit4Demo {
     public void testDemo2(){
         assertTrue(false);
         System.out.println("hi");
+        System.out.println("nihao");
     }
 }
