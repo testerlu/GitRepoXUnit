@@ -7,6 +7,7 @@ public class TestJUnit4Demo {
     public void testDemo(){
         //System.out.println("hello");
         assertTrue(true);
+        System.out.println("nihao");
     }
 
     @Test
