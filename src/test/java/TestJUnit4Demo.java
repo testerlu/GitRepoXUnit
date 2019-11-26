@@ -12,5 +12,6 @@ public class TestJUnit4Demo {
     @Test
     public void testDemo2(){
         assertTrue(false);
+        System.out.println("hi");
     }
 }
